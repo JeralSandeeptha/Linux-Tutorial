@@ -21,7 +21,7 @@
 (06.) apt update
     * Update the system
 
-(07.) wget
+(07.) wget / curl
     * Download something to the system
 
 (08.) locate
