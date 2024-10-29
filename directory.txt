@@ -1,0 +1,23 @@
+(1.) pwd
+   * To get the current directory path
+
+(2.) ls
+   * Show the things in the folder
+
+(3.) ls -lh
+   * Show the things in the folder with details
+
+(4.) cd /
+   * Go to the root directory
+
+(5.) cd ..
+   * Go to back folder
+
+(6.) cd 
+   * Go to next folder
+
+(7.) clear
+   * clear the console / looks as new console
+
+(8.) mkdir 
+   * To create a new folder / directory

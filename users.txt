@@ -1,0 +1,29 @@
+(01.) sudo su -
+    * Go to the root user
+
+(02.) useradd silmi
+    * Create a new user
+
+(03.) passwd silmi
+    * To give a password for that user
+
+(04.) su - silmi
+    * Change the user
+
+(05.) exit
+    * To logout the system
+
+(06.) groupadd admin_group
+    * Add new user group
+
+(07.) usermod -a -G admin_group silmi
+    * Add user to the group
+
+(08.) chown -R jeral:admin_group jeral/
+    * To give the ownership to the user and user group
+
+(09.) chmod -R 777 /jeral
+    * To give full permission to the a directory
+
+(10.) chmod -R 770 /jeral
+    * To give permission to owner and he group only.

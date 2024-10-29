@@ -1,0 +1,31 @@
+(01.) df -h
+    * To get the system capacity / specifications.
+
+(02.) Ctrl + C
+    * To clear the console.
+
+(03.) Permission code syntax (drwxr-xr-x)
+    * First letter     ---> d (directory)
+    * First 3 letters  ---> owner permissions
+    * Second 3 letters ---> user group permissions
+    * Third 3 letters  ---> anyone permissions
+
+(04.) Permission number code
+    * First number  ---> 7 (R - 4, W - 2, X - 1)
+    * Second number ---> 7 (R - 4, W - 2, X - 1)
+    * Third number  ---> 7 (R - 4, W - 2, X - 1)
+
+(05.) apt install
+    * Install new one to the system
+
+(06.) apt update
+    * Update the system
+
+(07.) wget
+    * Download something to the system
+
+(08.) locate
+    * To search something.
+
+(09.) reboot
+    * To reboot the system.

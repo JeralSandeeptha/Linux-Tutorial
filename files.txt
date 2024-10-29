@@ -1,0 +1,40 @@
+(01.) touch
+    * To create a new file
+
+(02.) cp index.html /jeral
+    * Copy files
+    * cp command then file and then the copy location
+
+(03.) cp index.html about.html /jeral
+    * Copy multiple files
+    * cp command then files and then the copy location
+
+(04.) cp -r sub_folder_one/ /jeral/folder_one/
+    * Copy folder.
+
+(05.) mv about.html /jeral
+    * Move files.
+
+(06.) mv sub_folder_one /jeral
+    * Move folder.
+
+(07.) mv sub_folder_one sub_folder_one_updated
+    * Rename folder.
+    * mv command, folder name, then new name.
+
+(08.) rm about.html
+    * Delete / Remove file.
+
+(09.) rm -rf folder_name
+    * Delete / Remove folder.
+
+(10.) vi index.html
+    * Edit a file.
+    * First go to the editor.
+    * Then click insert button to allow insert the content.
+    * Put the content.
+    * Save the content. For that click Esc key then :wq! and enter
+    * Unsave the content. For that click Esc key then :q! and enter
+
+(11.) cat index.html
+    * Read a file.
