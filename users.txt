@@ -4,7 +4,7 @@
 (02.) useradd silmi
     * Create a new user
 
-(03.) passwd silmi
+(03.) passwd silmi 
     * To give a password for that user
 
 (04.) su - silmi
