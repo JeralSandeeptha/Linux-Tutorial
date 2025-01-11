@@ -1,5 +1,5 @@
 (1.) Select a word
-   * Copy something
+   * Copy something 
 
 (2.) Right Click
    * Paste something
