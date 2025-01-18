@@ -2,7 +2,7 @@
     * To get the system capacity / specifications.
 
 (02.) Ctrl + C
-    * To clear the console.
+    * To clear the console. 
 
 (03.) Permission code syntax (drwxr-xr-x)
     * First letter     ---> d (directory)
