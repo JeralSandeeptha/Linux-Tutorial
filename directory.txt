@@ -1,4 +1,4 @@
-(1.) pwd  
+(1.) pwd   
    * To get the current directory path
  
 (2.) ls
