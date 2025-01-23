@@ -7,7 +7,7 @@
 (3.) ls -lh 
    * Show the things in the folder with details
 
-(4.) cd /
+(4.) cd / 
    * Go to the root directory
 
 (5.) cd ..
