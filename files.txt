@@ -1,4 +1,4 @@
-(01.) touch  
+(01.) touch   
     * To create a new file
  
 (02.) cp index.html /jeral 
