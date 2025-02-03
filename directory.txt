@@ -4,7 +4,7 @@
 (2.) ls 
    * Show the things in the folder 
 
-(3.) ls -lh  
+(3.) ls -lh   
    * Show the things in the folder with details
 
 (4.) cd / 
