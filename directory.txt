@@ -8,7 +8,7 @@
    * Show the things in the folder with details
 
 (4.) cd / 
-   * Go to the root directory
+   * Go to the root directory 
 
 (5.) cd ..
    * Go to back folder
