@@ -10,7 +10,7 @@
 (4.) cd / 
    * Go to the root directory 
 
-(5.) cd ..
+(5.) cd .. 
    * Go to back folder
 
 (6.) cd 
