@@ -2,7 +2,7 @@
     * To create a new file
  
 (02.) cp index.html /jeral  
-    * Copy files 
+    * Copy files  
     * cp command then file and then the copy location
  
 (03.) cp index.html about.html /jeral
