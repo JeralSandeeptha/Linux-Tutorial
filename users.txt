@@ -1,5 +1,5 @@
 (01.) sudo su -
-    * Go to the root user
+    * Go to the root user 
 
 (02.) useradd silmi
     * Create a new user
