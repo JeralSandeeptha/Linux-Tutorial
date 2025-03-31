@@ -7,7 +7,7 @@
 (03.) passwd silmi 
     * To give a password for that user
 
-(04.) su - silmi
+(04.) su - silmi 
     * Change the user
 
 (05.) exit
