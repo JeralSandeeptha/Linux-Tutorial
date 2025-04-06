@@ -1,7 +1,7 @@
 (01.) touch   
     * To create a new file
   
-(02.) cp index.html /jeral  
+(02.) cp index.html /jeral   
     * Copy files  
     * cp command then file and then the copy location
  
