@@ -1,6 +1,6 @@
 (01.) df -h
     * To get the system capacity / specifications.
-
+ 
 (02.) Ctrl + C
     * To clear the console. 
 
