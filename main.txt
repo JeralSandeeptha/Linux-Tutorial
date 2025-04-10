@@ -2,4 +2,4 @@
    * Copy something  
  
 (2.) Right Click
-   * Paste something
+   * Paste something 
