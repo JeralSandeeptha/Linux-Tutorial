@@ -4,20 +4,23 @@
 (2.) ls    
    * Show the things in the folder   
 
-(3.) ls -lh   
+(3.) ls - a    
+   * Show the things in the folder including hidden files
+
+(4.) ls -lh   
    * Show the things in the folder with details
 
-(4.) cd / 
+(5.) cd / 
    * Go to the root directory 
 
-(5.) cd .. 
+(6.) cd .. 
    * Go to back folder
 
-(6.) cd 
+(7.) cd 
    * Go to next folder
 
-(7.) clear
+(8.) clear
    * clear the console / looks as new console
 
-(8.) mkdir 
+(9.) mkdir 
    * To create a new folder / directory
