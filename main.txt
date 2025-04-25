@@ -16,8 +16,3 @@
 (6.) Clear Terminal
    * CTRL + L
 
-(7.) List folder items
-   * ls
-
-(8.) List folder items in detail
-   * ls -a
