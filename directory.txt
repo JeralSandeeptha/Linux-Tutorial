@@ -10,6 +10,9 @@
 (4.) ls -lh   
    * Show the things in the folder with details
 
+(4.) ls -lR foldername/
+   * List with sub direcrotries
+
 (5.) cd / 
    * Go to the root directory 
 
