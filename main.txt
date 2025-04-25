@@ -16,3 +16,5 @@
 (6.) Clear Terminal
    * CTRL + L
 
+(7.) Reboot the system
+   * reboot
