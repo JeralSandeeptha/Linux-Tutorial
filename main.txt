@@ -18,3 +18,9 @@
 
 (7.) Reboot the system
    * reboot
+
+(8.) Check the Network
+   * ping google.com
+
+(9.) Check IP Address
+   * ifconfig
