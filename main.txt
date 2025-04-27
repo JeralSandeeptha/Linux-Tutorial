@@ -24,3 +24,7 @@
 
 (9.) Check IP Address
    * ifconfig
+
+(10.) To describe a specific command
+   * cd man 
+   * (command) man 
