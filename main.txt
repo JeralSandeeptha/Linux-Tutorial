@@ -3,7 +3,7 @@
  
 (2.) Right Click 
    * Paste something 
-
+ 
 (3.) Zoom In Terminal
    * CTRL + SHIFT + +
 
