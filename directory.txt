@@ -6,7 +6,7 @@
 
 (3.) ls - a    
    * Show the things in the folder including hidden files
-
+ 
 (4.) ls -lh    
    * Show the things in the folder with details 
 
