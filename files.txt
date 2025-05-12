@@ -5,7 +5,7 @@
     * Copy files  
     * cp command then file and then the copy location  
  
-(03.) cp index.html about.html /jeral 
+(03.) cp index.html about.html /jeral  
     * Copy multiple files
     * cp command then files and then the copy location
 
