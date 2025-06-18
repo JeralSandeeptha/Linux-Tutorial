@@ -7,7 +7,7 @@
 (3.) Zoom In Terminal
    * CTRL + SHIFT + +
 
-(4.) Zoom Out Terminal
+(4.) Zoom Out Terminal 
    * CTRL + -
 
 (5.) Stop running process
